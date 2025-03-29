@@ -1,96 +1,85 @@
 ---
-title: Our Coffee
+title: "Our Crafts"
 type: products
 image: /img/products-jumbotron.jpg
 intro:
-  heading: What we offer
+  heading: "What We Offer"
   description: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee production,
-    roasting and brewing seriously and we’re glad to pass that knowledge to
-    anyone.
+    Ikaai is dedicated to reviving and celebrating India’s rich artisanal heritage. 
+    We collaborate directly with skilled artisans to bring you authentic, handcrafted products 
+    that preserve centuries-old traditions while supporting sustainable livelihoods.
   blurbs:
-    - image: /img/illustrations-coffee.svg
+    - image: /img/illustrations-handcrafted.svg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/illustrations-coffee-gear.svg
+        Every piece in our collection is a reflection of India's diverse cultural legacy. 
+        From intricately woven textiles to finely crafted pottery, we offer ethically sourced, 
+        handmade products that tell a story of tradition and craftsmanship.
+    - image: /img/illustrations-heritage.svg
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/illustrations-tutorials.svg
+        We work with artisan communities practicing age-old crafts such as Mubarakpur Sili weaving, 
+        Nizamabad Black Pottery, Chikan Kaari embroidery, and Moonj Craft. These techniques, 
+        passed down through generations, are now being revitalized for the modern world.
+    - image: /img/illustrations-sustainability.svg
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/illustrations-meeting-space.svg
+        Sustainability is at the core of our philosophy. By using natural materials and 
+        eco-friendly processes, our artisans ensure minimal environmental impact while 
+        maintaining the authenticity of their craft.
+    - image: /img/illustrations-community.svg
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        Ikaai is more than a brand—it’s a movement to empower artisans. By purchasing from us, 
+        you directly support artisan families, ensuring fair wages, skill development, and 
+        economic growth in rural communities.
 main:
-  heading: Great coffee with no compromises
+  heading: "Crafts Rooted in Heritage"
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    We uphold the highest standards of quality and authenticity in every handcrafted product. 
+    Our artisans use traditional techniques refined over generations, ensuring that each piece 
+    is not only beautiful but also meaningful.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: Mubarakpur Sili weaving in progress
+    image: /img/products-mubarakpur-sili.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: Nizamabad Black Pottery craftsmanship
+    image: /img/products-nizamabad-pottery.jpg
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: Moonj Craft handwoven baskets
+    image: /img/products-moonj-craft.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
+  - author: "Ananya Verma"
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
+      The craftsmanship in Ikaai’s products is simply breathtaking. Knowing that 
+      my purchase supports artisans directly makes it even more special.
+  - author: "Rahul Menon"
     quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+      Ikaai is doing an incredible job preserving India’s traditional crafts. 
+      Their pieces are not only stunning but also have a rich cultural story behind them.
 full_image: /img/products-full-width.jpg
 pricing:
-  heading: Monthly subscriptions
+  heading: "Custom & Bespoke Orders"
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    Looking for something unique? We offer bespoke handcrafted pieces tailored to your needs. 
+    Whether it’s a custom embroidery design, a unique ceramic piece, or personalized handwoven fabrics, 
+    our artisans can bring your vision to life. Contact us for custom orders and collaborations.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: Perfect for those looking for a single handcrafted piece with a story.
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans
-        - One or two varieties of beans
-      plan: Small
-      price: '50'
-    - description: Great for avid drinkers, java-loving couples and bigger crowds
+        - One-of-a-kind handcrafted item
+        - Ethically sourced materials
+        - Direct artisan collaboration
+      plan: Individual Order
+      price: "Varies"
+    - description: Ideal for businesses, gifting, and bulk orders with artisan customization.
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+        - Custom-designed handcrafted items
+        - Large-scale orders with bespoke options
+        - Sustainable and ethical sourcing
+      plan: Bulk Order
+      price: "Quote on request"
+    - description: Collaborate with artisans to create exclusive handcrafted collections.
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: '?'
+        - Tailor-made artisan collaborations
+        - Design consultations and material selection
+        - Limited-edition product lines
+      plan: Custom Collaboration
+      price: "Contact for details"
 ---
-
-
