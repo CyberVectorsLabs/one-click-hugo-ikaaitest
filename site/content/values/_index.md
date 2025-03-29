@@ -1,45 +1,35 @@
 ---
-title: "Values"
+title: "Our Values"
 image: /img/about-jumbotron.jpg
 values:
-  - heading: "Shade-grown coffee"
+  - heading: "Empowering Artisans"
     text: >
-      Coffee is a small tree or shrub that grows in the forest
-      understory in its wild form, and traditionally was grown
-      commercially under other trees that provided shade. The
-      forest-like structure of shade coffee farms provides habitat for
-      a great number of migratory and resident species.
-    imageUrl: "/img/about-shade-grown.jpg"
-  - heading: "Single origin"
+      We believe in economic empowerment through fair wages and direct market access. 
+      By eliminating middlemen, we ensure artisans receive their rightful earnings, fostering sustainable livelihoods.
+    imageUrl: "/img/about-empowerment.jpg"
+  
+  - heading: "Preserving Heritage"
     text: >
-      Single-origin coffee is coffee grown within a single known
-      geographic origin. Sometimes, this is a single farm or a
-      specific collection of beans from a single country. The name of
-      the coffee is then usually the place it was grown to whatever
-      degree available.
-    imageUrl: "/img/about-single-origin.jpg"
-  - heading: "Sustainable farming"
+      Traditional crafts are more than just products; they are legacies passed down through generations. 
+      Ikaai is committed to preserving India’s rich artisanal heritage by promoting and sustaining these ancient skills.
+    imageUrl: "/img/about-preserving-heritage.jpg"
+  
+  - heading: "Ethical Sourcing"
     text: >
-      Sustainable agriculture is farming in sustainable ways based on
-      an understanding of ecosystem services, the study of
-      relationships between organisms and their environment. What
-      grows where and how it is grown are a matter of choice and
-      careful consideration for nature and communities.
-    imageUrl: "/img/about-sustainable-farming.jpg"
-  - heading: "Direct sourcing"
+      Every product we offer is ethically sourced, ensuring transparency, sustainability, and responsibility at every stage of production. 
+      We work closely with artisans to uphold ethical labor practices and environmental consciousness.
+    imageUrl: "/img/about-ethical-sourcing.jpg"
+
+  - heading: "Sustainable Materials"
     text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
-    imageUrl: "/img/about-direct-sourcing.jpg"
-  - heading: "Reinvest profits"
+      Sustainability is at the heart of our mission. Our products use natural, eco-friendly materials, 
+      supporting both the environment and the communities that depend on these resources.
+    imageUrl: "/img/about-sustainable-materials.jpg"
+
+  - heading: "Reinvesting in Communities"
     text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
-    imageUrl: "/img/about-reinvest-profits.jpg"
+      We reinvest a significant portion of our profits back into artisan communities, funding skill development, education, 
+      and infrastructure improvements. Our goal is to create a self-sustaining ecosystem where crafts thrive.
+    imageUrl: "/img/about-reinvesting.jpg"
 ---
+
